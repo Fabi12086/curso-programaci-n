@@ -64,3 +64,4 @@ directorio_a_organizar = 'directorioEjemplo'
 
 # Llama a la función para organizar los archivos
 organizar_archivos_por_extension(directorio_a_organizar)
+
